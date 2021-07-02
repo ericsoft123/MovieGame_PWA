@@ -20,8 +20,8 @@ You will need the following things properly installed on your computer.
 
 ## Game Details
 
-This is a realtime Game where multiple player can be able to play Online to Guess The Year of Realeased Movie
+This is a realtime Game where multiple players can be able to play Online to Guess The Year of Realeased Movie
 
-* For Local Development you can use multiple browser to test multiple people playing on Realtime
+* For Local Development you can use multiple browsers to test multiple people playing on Realtime
 * or you can play alone by opening one browser
 
