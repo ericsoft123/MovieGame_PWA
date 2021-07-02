@@ -17,6 +17,8 @@ You will need the following things properly installed on your computer.
 * Run `nodemon app.js` in the MovieGame_PWA folder.
 * Visit your app at [http://localhost:3000](http://localhost:3000).
 * Note if your 3000 port is not working you may change port number under .ENV file.
+* Note this is PWA APP you can install it also on your computer.
+
 
 ## Game Details
 
